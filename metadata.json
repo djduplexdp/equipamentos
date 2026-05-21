@@ -1,0 +1,6 @@
+{
+  "name": "Controle de Galpões",
+  "description": "Gerenciador eficiente de galpões e equipamentos com filtros, busca e persistência Room.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
